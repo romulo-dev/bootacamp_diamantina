@@ -1,0 +1,62 @@
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.csproj.AssemblyReference.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.GeneratedMSBuildEditorConfig.editorconfig
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.AssemblyInfoInputs.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.AssemblyInfo.cs
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.csproj.CoreCompileInputs.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.MvcApplicationPartsAssemblyInfo.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.RazorAssemblyInfo.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.RazorAssemblyInfo.cs
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/appsettings.Development.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/appsettings.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.staticwebassets.runtime.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.deps.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.runtimeconfig.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.dll
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.pdb
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.Tarefas.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.build.Tarefas.Web.props
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tarefas.Web.props
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tarefas.Web.props
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.pack.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.build.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.development.json
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/bundle/Tarefas.Web.styles.css
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/projectbundle/Tarefas.Web.bundle.scp.css
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.dll
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/refint/Tarefas.Web.dll
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.pdb
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.genruntimeconfig.cache
+/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/ref/Tarefas.Web.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/appsettings.Development.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/appsettings.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.staticwebassets.runtime.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.deps.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.runtimeconfig.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.Web.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.csproj.AssemblyReference.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.AssemblyInfoInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.AssemblyInfo.cs
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.csproj.CoreCompileInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.RazorAssemblyInfo.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.RazorAssemblyInfo.cs
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.Tarefas.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.build.Tarefas.Web.props
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tarefas.Web.props
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tarefas.Web.props
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.pack.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.build.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/staticwebassets.development.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/bundle/Tarefas.Web.styles.css
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/scopedcss/projectbundle/Tarefas.Web.bundle.scp.css
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/refint/Tarefas.Web.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.genruntimeconfig.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/ref/Tarefas.Web.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGxhGfoBvhkEFnFc2NFiEpx4a48VLFeXhlszjEsDBqV9Mo+GjhhOxmTPgEaExxp3PnSs1uc0ci+MNYz1FJaMLQ==",
+  "dgSpecHash": "Ty4peGU/pQ8prfczJcCRy/jRr/oDSRvTy3A4eYlW6YTMHvDxD3kg6oZ6S1NH3+a5U5yxN90bKg0xWkoAZdbWLQ==",
   "success": true,
-  "projectFilePath": "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+  "projectFilePath": "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj": {}
+    "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj": {}
   },
   "projects": {
-    "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj": {
+    "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+        "projectUniqueName": "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
         "projectName": "Tarefas.Web",
-        "projectPath": "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+        "projectPath": "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
         "packagesPath": "/home/romulo/.nuget/packages/",
-        "outputPath": "/media/romulo/5C41-A819/home/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/",
+        "outputPath": "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/romulo/.nuget/NuGet/NuGet.Config"
