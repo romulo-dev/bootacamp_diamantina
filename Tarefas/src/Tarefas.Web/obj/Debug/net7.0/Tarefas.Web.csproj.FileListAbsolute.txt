@@ -60,3 +60,14 @@
 /home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.pdb
 /home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.genruntimeconfig.cache
 /home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/ref/Tarefas.Web.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Dapper.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/System.Data.SQLite.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/runtimes/linux-x64/native/SQLite.Interop.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/runtimes/osx-x64/native/SQLite.Interop.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/runtimes/win-x64/native/SQLite.Interop.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/runtimes/win-x86/native/SQLite.Interop.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DTO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DTO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.Web/obj/Debug/net7.0/Tarefas.Web.csproj.CopyComplete

@@ -1,0 +1,12 @@
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/bin/Debug/net7.0/Tarefas.DTO.deps.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/bin/Debug/net7.0/Tarefas.DTO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/bin/Debug/net7.0/Tarefas.DTO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.csproj.AssemblyReference.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.AssemblyInfoInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.AssemblyInfo.cs
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.csproj.CoreCompileInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/refint/Tarefas.DTO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/ref/Tarefas.DTO.dll

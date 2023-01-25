@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O364fyRZFcMSdmJHVYh4UTXrLkYlPM4XjAcHHy70wEC2q5Mpu4kl5D5P7I0uksg2egIw/micBKqj+pLgabHTxQ==",
+  "success": true,
+  "projectFilePath": "/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/Tarefas.DAO.csproj",
+  "expectedPackageFiles": [
+    "/home/romulo/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
+    "/home/romulo/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.2/stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "/home/romulo/.nuget/packages/system.data.sqlite.core/1.0.113.7/system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}

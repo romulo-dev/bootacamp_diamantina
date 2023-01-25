@@ -1,0 +1,12 @@
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.deps.json
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.AssemblyReference.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfoInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfo.cs
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CoreCompileInputs.cache
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/refint/Tarefas.DAO.dll
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.pdb
+/home/romulo/Área de Trabalho/treinamentotarde/bootacamp_diamantina/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/ref/Tarefas.DAO.dll
